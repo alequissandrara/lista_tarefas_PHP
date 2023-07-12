@@ -14,10 +14,10 @@ Este projeto consiste em uma aplicação web desenvolvida em PHP, combinando con
   [Branch lista_tarefas_app](https://github.com/alequissandrara/lista_tarefas_PHP/tree/lista_tarefas_app)
 
 ## Fotos do Projeto :camera:
-<img src="https://github.com/alequissandrara/lista_tarefas_PHP/assets/70325643/7648d887-61fd-4b84-8d11-137d8d879452" alt="Imagem 1" width="430">
-<img src="https://github.com/alequissandrara/lista_tarefas_PHP/assets/70325643/036c88c2-cfa1-481c-a001-346f51cc7224" alt="Imagem 2" width="450">
-<img src="https://github.com/alequissandrara/lista_tarefas_PHP/assets/70325643/26210d28-4bcf-4d91-b13f-31b71672ddd0" alt="Imagem 3" width="430">
-<img src="https://github.com/alequissandrara/lista_tarefas_PHP/assets/70325643/d8218274-b9ef-4dc9-ba70-0a851896cb1b" alt="Imagem 4" width="450">
+<img src="https://github.com/alequissandrara/lista_tarefas_PHP/assets/70325643/7648d887-61fd-4b84-8d11-137d8d879452" alt="Imagem 1">
+<img src="https://github.com/alequissandrara/lista_tarefas_PHP/assets/70325643/036c88c2-cfa1-481c-a001-346f51cc7224" alt="Imagem 2">
+<img src="https://github.com/alequissandrara/lista_tarefas_PHP/assets/70325643/26210d28-4bcf-4d91-b13f-31b71672ddd0" alt="Imagem 3">
+<img src="https://github.com/alequissandrara/lista_tarefas_PHP/assets/70325643/d8218274-b9ef-4dc9-ba70-0a851896cb1b" alt="Imagem 4">
 
 ## Resumo do Projeto :memo:
 Neste projeto, é desenvolvida uma aplicação web que permite a criação, listagem, edição e exclusão de tarefas pendentes. A aplicação é construída em PHP e utiliza um banco de dados MySQL para armazenar as informações.

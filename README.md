@@ -1,4 +1,4 @@
-# Lista de Tarefas em PHP :clipboard: (Arquivos que devem ser mantido fora do diretório Público)
+# Lista de Tarefas em PHP :clipboard: (Arquivos que devem ser mantido fora do diretório público do XAMPP)
 
 Este projeto consiste em uma aplicação web desenvolvida em PHP, combinando conhecimentos de programação PHP, SQL, HTML, CSS e Bootstrap. A aplicação permite a realização de operações CRUD (Create, Read, Update, Delete) em um banco de dados MySQL.
 

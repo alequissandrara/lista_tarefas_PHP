@@ -2,6 +2,10 @@
 
 Este projeto consiste em uma aplicação web desenvolvida em PHP, combinando conhecimentos de programação PHP, SQL, HTML, CSS e Bootstrap. A aplicação permite a realização de operações CRUD (Create, Read, Update, Delete) em um banco de dados MySQL.
 
+## Página do projeto: 
+[App Lista tarefas](http://projectpage.free.nf/app_lista_tarefas_public/todas_tarefas.php)
+
+
 ## Branches
 
 - **main**: Branch principal que contém as Query para aplicar no PhpMyAdmin.
